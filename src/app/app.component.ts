@@ -1,11 +1,6 @@
 import { HttpClient } from "@angular/common/http";
 import { Component, inject } from "@angular/core";
-import {
-  FormBuilder,
-  FormControl,
-  FormGroup,
-  ReactiveFormsModule,
-} from "@angular/forms";
+import { ReactiveFormsModule, FormControl } from "@angular/forms";
 import {
   Subject,
   catchError,
