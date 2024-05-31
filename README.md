@@ -4,3 +4,5 @@
 
 ## The `debounceTime` operator is used to delay the request for a certain amount of time.
 
+## TODO
+- Experiment with signals as well
